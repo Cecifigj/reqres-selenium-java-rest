@@ -2,7 +2,6 @@ package api.endpoints;
 
 import io.restassured.response.Response;
 import static io.restassured.RestAssured.given;
-import io.restassured.http.ContentType;
 
 //UserEndPoints.java -> CRUD operations in the user API
 public class UserEndPoints {
